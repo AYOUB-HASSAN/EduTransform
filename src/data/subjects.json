@@ -1,0 +1,45 @@
+{
+  "subjects": [
+    {
+      "id": "anatomy",
+      "name": "التشريح",
+      "nameEn": "Anatomy",
+      "description": "دراسة تركيب جسم الإنسان والأعضاء",
+      "icon": "UserIcon",
+      "color": "bg-blue-500",
+      "gradient": "from-blue-500 to-blue-600",
+      "lessons": 12,
+      "videos": 8,
+      "pdfs": 15,
+      "resources": {
+        "pdfs": [
+          {
+            "name": "ملخص الجهاز العصبي",
+            "size": "2.4 MB",
+            "downloadUrl": "#"
+          },
+          {
+            "name": "تشريح القلب والأوعية الدموية",
+            "size": "3.1 MB",
+            "downloadUrl": "#"
+          }
+        ],
+        "videos": [
+          {
+            "title": "مقدمة في علم التشريح",
+            "duration": "15:24",
+            "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+            "url": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+          }
+        ],
+        "audio": [
+          {
+            "title": "محاضرة التشريح العام",
+            "duration": "45:00",
+            "url": "#"
+          }
+        ]
+      }
+    }
+  ]
+}
